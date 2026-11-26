@@ -1,0 +1,7 @@
+# The model artifact was saved with scikit-learn 1.6.1.
+streamlit>=1.57,<2.0
+pandas>=2.2,<3.0
+# The supplied pickle references numpy._core, which requires NumPy 2.x.
+numpy>=2.0,<2.3
+scikit-learn==1.6.1
+joblib>=1.4,<2.0
